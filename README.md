@@ -19,5 +19,7 @@ Questi sono  i componenti che utilizzo per i miei esperimenti con il moduli ESP8
 ## Scheda di sviluppo
 
 Si consiglia di realizzare una scheda di sviluppo:
+
 ![scheda di sviluppo ](https://github.com/roboticboyer/RoboticBoyer.github.io/blob/master/DOC/Immagini/ESP8266_Breadbord.JPG)  
+
 * Minimal Hardware Setup for [Generic ESP8266 modules](/DOC/boards.md#generic-esp8266-modules) e paragrafi sucessivi.  
